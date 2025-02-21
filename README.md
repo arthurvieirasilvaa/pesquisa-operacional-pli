@@ -9,12 +9,12 @@
 ## 📖 Objetivo:
 
 Este trabalho consiste em implementar modelos de Programação Linear Inteira (PLI) para resolver alguns problemas clássicos utilizando a 
-integração do software CPLEX(IBM) com a linguagem de programação C++.
+integração do software CPLEX (IBM) com a linguagem de programação C++.
 
 ## 🖥️ Tecnologias
 
 - **Linguagem**: C++
-- **Software**: CPLEX(IBM)
+- **Software**: CPLEX (IBM)
 - **Ambiente**: Linux
 
 ## 🧠 Problemas Implementados
